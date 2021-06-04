@@ -1,0 +1,10 @@
+{
+    "development":{
+        "host":"localhost",
+        "port":"3306",
+        "database":"boomblast",
+        "username":"root",
+        "password":"mysecretpassword",
+        "dialect":"mysql"
+    }
+}
