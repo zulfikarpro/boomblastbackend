@@ -1,0 +1,2 @@
+INSERT INTO boomblast.admin (username,password,name,created_at,edited_at) VALUES
+	 ('admin','$2b$10$vARk8PBuW.dcHf9G7A.V/..iSO1OrHX/Q49ttPtni7L.pgMimWtKe','jaul','2021-02-02 00:07:00.0','2021-02-02 00:07:00.0');
